@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    color: white;
+    
+}
+.one
+{
+    text-align: center;
+    font-size: 27px;
+    font-style: normal;
+    color: #eb3437;
+    margin-top: 10px;
+}
+.two
+{
+    text-align: center;
+    font-size: 23px;
+}
+.three
+{
+    text-align: center;
+    font-size: 20px;
+}
+.four
+{
+    font-size: 19px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.five
+{
+    float: right;
+    margin-right: 15px;
+}
+.six
+{
+    margin-left: 10px;
+
+}
+.seven
+{
+    color: #ce42f5;
+    margin-left: 10px;
+    font-size: 19px;
+}
